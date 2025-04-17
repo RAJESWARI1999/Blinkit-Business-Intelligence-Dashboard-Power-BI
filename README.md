@@ -1,6 +1,6 @@
 # Blinkit-Business-Intelligence-Dashboard-Power-BI
 This repository contains a Power BI dashboard developed to analyze key performance indicators (KPIs) for Blinkit, 
-an instant delivery service platform. The dashboard provides a comprehensive overview of business metrics such as order volume, revenue, delivery performance, customer behavior, and product category trends.
+an instant delivery service platform. The dashboard provides a comprehensive overview of business metrics such as order volume, revenue, delivery performance, customer behaviour, and product category trends.
 
 This dashboard is designed to empower operations, marketing, and business strategy teams with real-time insights, helping drive informed decision-making across the Blinkit platform.
 
@@ -44,19 +44,3 @@ Power Query for Data Transformation
 Excel/CSV Data Sources (mock or real anonymized Blinkit data)
 Custom Visuals (e.g., KPI cards, decomposition tree, maps)
 
-
-📂 Repository Structure
-
-/BlinkitDashboard/
-│
-├── 📁 PowerBI_File/
-│   └── Blinkit_Dashboard.pbix
-│
-├── 📁 Data/
-│   └── blinkit_sample_data.csv
-│
-├── 📁 Images/
-│   └── dashboard_preview.png
-│
-├── README.md
-└── LICENSE
